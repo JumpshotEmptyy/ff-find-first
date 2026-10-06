@@ -1,3 +1,7 @@
-# Test
-
 ## Command Description
+The main functionality of this command is to search and locate a specific text pattern throughout a a certain number of lines within a file, which also results in the printing and showcasing of these word pattern findings in the terminal. 
+The primary way how to run this code is to type node, along with the name of the js server, a keyword or pattern that you want to search for, the name of the file in which you're searching through and the maximum number of lines that you want to search. Example: node ff.js error server.log 10
+This specific code combines the functionality and utility of the GREP function, which is used to allow for a user to search keywords or patterns throughout a file, along with the HEAD function which is used to display the lines in which the keyword is found in.
+
+## AI-Assisted Programming
+I asked ChatGPT to assist me with organizing and checking the code for any errors or accuracy issues, in which the AI assistance helped me with a few unspotted syntax errors and spelling errors that I had done throughout implementation of this code. I also used ChatGPT to assist with organizing my README file as well, which wasn't as helpful and required me to think about which sections and information I should revise and adjust throughout this file. One thing that the AI bot didn't do well on was grabbing the full functionality of the code that I included inside the prompt, along with adding extra information that wasn't necessary throughout the command description.
